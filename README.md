@@ -26,6 +26,6 @@ TO DO:
 
 -Fix broken interactions
 
--Figure out how to do Enlightneded Strike correctly
+-Figure out how to do Enlightened Strike correctly
 
 -Blue modes on cards (i.e throwdagger) not working as intended
