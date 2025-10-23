@@ -20,7 +20,7 @@ somewhat accurate value estimations.
 
 TO DO:
 
--Frontend
+-CLI frontend & cleaner output via pandas
 
 -Expand card pool
 
